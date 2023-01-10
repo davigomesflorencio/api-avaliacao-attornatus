@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:avaliacao
+    username: username123
+    password: password123
+    driverClassName: org.h2.Driver
+  jpa:
+    spring.jpa.database-platform: org.hibernate.dialect.H2Dialect
+    hibernate.ddl-auto: create
+
+server:
+  port: 8080
