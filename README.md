@@ -1,4 +1,4 @@
-# API 
+# 🚀 Introdução 
 > O objetivo deste documento é identificar seus conhecimentos quanto às tecnologias utilizadas no cotidiano de desenvolvimento da equipe de Back-end na Attornatus Procuradoria Digital.
 
 Esta análise propõe avaliar os seguintes temas:
@@ -9,7 +9,16 @@ Esta análise propõe avaliar os seguintes temas:
 <li>Testes</li>
 </ul>
 
-## API 
+## Tecnologias Utilizadas
+
+<p>
+
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+
+</p>
+
+## 🌟 Sobre
 
 A API permite:  
 <ul>
@@ -35,7 +44,7 @@ Uma Pessoa tem os seguintes campos:
 </ul></li>
 </ul>
 
-## Organização do Projeto
+## 📃 Organização do Projeto
 A organização do projeto é apresentada abaixo.
 
 ```
@@ -43,6 +52,6 @@ A organização do projeto é apresentada abaixo.
 +-- POSTMAN/                # Configuração do postman para teste na plataforma 
 ```  
 
-## Desenvolvimento
-### IDE
+## ⚙️ Desenvolvimento
+
 A IDE recomendada para o desenvolvimento dos microsserviços é o [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/), pois tem excelente integração com linguagens que rodam na Máquina virtual Java além de ser uma das referências de mercado de IDEs.
